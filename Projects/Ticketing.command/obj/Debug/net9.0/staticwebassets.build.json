@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Qwu9SEv23Blw4jxFJ1RxBbZWr2YHnd723ubmRvxy+6g=",
+  "Source": "Ticketing.command",
+  "BasePath": "_content/Ticketing.command",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

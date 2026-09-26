@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09174A7E-593B-487B-94EC-EF2A971C8738}|Common\\Common.Core\\Common.Core.csproj|c:\\users\\ariza\\onedrive\\documents\\bk2025\\learning\\udemy\\kafka_net9\\event-sourcing\\common\\common.core\\producers\\ieventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09174A7E-593B-487B-94EC-EF2A971C8738}|Common\\Common.Core\\Common.Core.csproj|solutionrelative:common\\common.core\\producers\\ieventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD98CA24-EEFC-4016-9EF3-78EC06EC2F15}|Projects\\Ticketing.Query\\Ticketing.Query.csproj|c:\\users\\ariza\\onedrive\\documents\\bk2025\\learning\\udemy\\kafka_net9\\event-sourcing\\projects\\ticketing.query\\infraestructure\\infraestructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD98CA24-EEFC-4016-9EF3-78EC06EC2F15}|Projects\\Ticketing.Query\\Ticketing.Query.csproj|solutionrelative:projects\\ticketing.query\\infraestructure\\infraestructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD98CA24-EEFC-4016-9EF3-78EC06EC2F15}|Projects\\Ticketing.Query\\Ticketing.Query.csproj|c:\\users\\ariza\\onedrive\\documents\\bk2025\\learning\\udemy\\kafka_net9\\event-sourcing\\projects\\ticketing.query\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD98CA24-EEFC-4016-9EF3-78EC06EC2F15}|Projects\\Ticketing.Query\\Ticketing.Query.csproj|solutionrelative:projects\\ticketing.query\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD98CA24-EEFC-4016-9EF3-78EC06EC2F15}|Projects\\Ticketing.Query\\Ticketing.Query.csproj|c:\\users\\ariza\\onedrive\\documents\\bk2025\\learning\\udemy\\kafka_net9\\event-sourcing\\projects\\ticketing.query\\features\\tickets\\commands\\ticketcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD98CA24-EEFC-4016-9EF3-78EC06EC2F15}|Projects\\Ticketing.Query\\Ticketing.Query.csproj|solutionrelative:projects\\ticketing.query\\features\\tickets\\commands\\ticketcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC5EDE0-04E9-45F3-AB2C-9725C2B5F136}|Projects\\Ticketing.Command\\Ticketing.command.csproj|c:\\users\\ariza\\onedrive\\documents\\bk2025\\learning\\udemy\\kafka_net9\\event-sourcing\\projects\\ticketing.command\\features\\tickets\\ticketcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC5EDE0-04E9-45F3-AB2C-9725C2B5F136}|Projects\\Ticketing.Command\\Ticketing.command.csproj|solutionrelative:projects\\ticketing.command\\features\\tickets\\ticketcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEventProducer.cs",
+              "DocumentMoniker": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\Common\\Common.Core\\Producers\\IEventProducer.cs",
+              "RelativeDocumentMoniker": "Common\\Common.Core\\Producers\\IEventProducer.cs",
+              "ToolTip": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\Common\\Common.Core\\Producers\\IEventProducer.cs",
+              "RelativeToolTip": "Common\\Common.Core\\Producers\\IEventProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T01:13:44.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfraestructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\Projects\\Ticketing.Query\\Infraestructure\\InfraestructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Projects\\Ticketing.Query\\Infraestructure\\InfraestructureServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\Projects\\Ticketing.Query\\Infraestructure\\InfraestructureServiceRegistration.cs",
+              "RelativeToolTip": "Projects\\Ticketing.Query\\Infraestructure\\InfraestructureServiceRegistration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T00:50:22.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\Projects\\Ticketing.command\\Features\\Tickets\\TicketCreate.cs",
+              "RelativeDocumentMoniker": "Projects\\Ticketing.command\\Features\\Tickets\\TicketCreate.cs",
+              "ToolTip": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\Projects\\Ticketing.command\\Features\\Tickets\\TicketCreate.cs",
+              "RelativeToolTip": "Projects\\Ticketing.command\\Features\\Tickets\\TicketCreate.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T23:07:26.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\Projects\\Ticketing.Query\\Features\\Tickets\\Commands\\TicketCreate.cs",
+              "RelativeDocumentMoniker": "Projects\\Ticketing.Query\\Features\\Tickets\\Commands\\TicketCreate.cs",
+              "ToolTip": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\Projects\\Ticketing.Query\\Features\\Tickets\\Commands\\TicketCreate.cs",
+              "RelativeToolTip": "Projects\\Ticketing.Query\\Features\\Tickets\\Commands\\TicketCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T18:55:03.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\Projects\\Ticketing.Query\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Projects\\Ticketing.Query\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\ariza\\OneDrive\\Documents\\BK2025\\LEARNING\\udemy\\kafka_net9\\event-sourcing\\Projects\\Ticketing.Query\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Projects\\Ticketing.Query\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T18:50:14.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
